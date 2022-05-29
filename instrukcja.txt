@@ -1,0 +1,15 @@
+Pytania do pliku quiz wprowadzamy w następujący sposób:
+Treść pytania
+odpowiedź a
+odpowiedź b
+odpowiedź c
+odpowiedź d
+poprawna odpowiedź podana w literze
+
+Przykładowy wygląd pytaia:
+Typ zmiennych o nazwie float przechowuje:
+liczby calkowite
+napisy
+liczby zmiennoprzecinkowe
+pojedyncze znaki
+c
